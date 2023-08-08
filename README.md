@@ -1,6 +1,6 @@
 Computer Science Student | Learning Web Development
 
-Hello! I'm Anderson Parisotto. Currently, I am focused on honing my skills in some essential languages:
+Hello! I'm Anderson Parisotto. Currently, I am focused on honing my skills in:
 
 Python 🐍
     HTML 🌐
