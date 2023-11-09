@@ -1,11 +1,12 @@
-Computer Science Student | Learning Web Development
+Hi! I'm Anderson Parisotto, a Computer Science student. I'm currently working as a Systems Assistant at CA PratoMil.
 
-Hello! I'm Anderson Parisotto. Currently, I am focused on honing my skills in:
+I have experience with the following technologies:
 
 Python 🐍
-    HTML 🌐
-    CSS 🎨
-    PHP 💻
-    C
+HTML 🌐
+CSS 🎨
+PHP 💻
+C 🖥️
+Teknisa ⚙️
 
-I am continuously learning to enhance my abilities in web development. If you're looking for a dedicated and enthusiastic collaborator for projects, feel free to get in touch!
+I'm constantly learning and growing my skills in software development.
