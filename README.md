@@ -1,3 +1,5 @@
+[![Portfolio](https://img.shields.io/badge/Meu_Portfólio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://andersonparisotto.notion.site/portfolio)
+
 **Analista de Sistemas | Especialista Teknisa | Python • C# • SQL • BI & IA**
 
 Analista de Sistemas com foco em otimização de processos e inteligência de dados. Atualmente, atuo na CA PratoMil, onde combino expertise técnica em sistemas Teknisa com o desenvolvimento de soluções personalizadas em Python, PHP e C#.
