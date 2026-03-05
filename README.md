@@ -36,13 +36,6 @@ I have solid experience in database management (MySQL, SQLite, SQL Server) and n
 ---
 
 ### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-six-rebel.vercel.app/api?username=AndersonParisotto&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  
-  <img height="180em" src="https://github-readme-stats-six-rebel.vercel.app/api/top-langs/?username=AndersonParisotto&layout=compact&langs_count=7&theme=dark" />
-</div>
-
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AndersonParisotto&theme=dark" />
 </div>
