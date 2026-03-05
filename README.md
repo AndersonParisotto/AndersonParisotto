@@ -34,7 +34,6 @@ I have solid experience in database management (MySQL, SQLite, SQL Server) and n
 | **Organização** | Notion (Documentação & Projetos), Metodologias Ágeis |
 
 ---
-
 ### 📊 Estatísticas do GitHub
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndersonParisotto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
