@@ -45,3 +45,5 @@ I have solid experience in database management (MySQL, SQLite, SQL Server) and n
 <div align="center">
   <p><i>"Transformando dados brutos em decisões estratégicas."</i></p>
 </div>
+
+![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=AndersonParisotto.AndersonParisotto)
